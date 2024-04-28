@@ -1,0 +1,7 @@
+key parent AssetBrowserConfig!shoppingTemplate.prop
+texts sporepediaConfigCallToActionMessage
+	(combine!0x00000001) "Harvester"
+end
+key sporepediaConfigEditorForMakeNew VehicleHarvester
+key sporepediaConfigRootFilterID harvester
+key sporepediaConfigSelectedFilterID harvester

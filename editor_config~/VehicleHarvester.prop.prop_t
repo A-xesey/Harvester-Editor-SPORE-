@@ -1,0 +1,32 @@
+key parent editor_config~!VehicleLandTemplate.prop
+string16 description "Harvester Vehicle Editor"
+string16 editorAssembledContentDirectory "Content/AssembledContent/Vehicles/Harvester"
+#key editorBackgroundModel ve_editor_base
+key editorBackgroundMusicPatch music_harvester_editor
+keys editorModelTypes
+	VehicleHarvester
+	VehicleColonyLand
+	VehicleMilitaryLand
+	VehicleMilitaryWater
+	VehicleMilitaryAir
+	VehicleEconomicLand
+	VehicleEconomicWater
+	VehicleEconomicAir
+	VehicleCulturalLand
+	VehicleCulturalWater
+	VehicleCulturalAir
+end
+texts editorName
+	(0xFFFFFFFF!0xffffffff) "Harvester Vehicle"
+end
+key editorPartsPalette palette_definition~!0x0000003D.prop
+#key editorSkyBoxEffect animations~
+key editorSporepediaCanSwitchConfigID VLE_HarvesterShopper_CanSwitch
+key editorSporepediaConfigID vle_harvestershopper
+key editorStatsFile HarvesterVehicleEditorStats
+#key editorSwatchBackgroundModel ve_editor_base
+key editorSwatchBackgroundMusicPatch music_vehc_hv_editor_shopping
+#key editorSwatchPedestalModel animations~
+key verbTrayCollection verbtrays!VHE_HV_VerbTrayCollection
+key verbTrayCollectionSporepediaLargeCard verbtrays!VHE_HV_VerbTrayCollection
+key verbTrayCollectionSporepediaSmallCard verbtrays!0x87E50A97
