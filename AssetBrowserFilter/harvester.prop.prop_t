@@ -1,9 +1,0 @@
-bool browserAllowSortByVehicleCulturalPower false
-bool browserAllowSortByVehicleEconomicPower false
-bool browserAllowSortByVehicleHealth true
-bool browserAllowSortByVehicleMilitaryPower false
-bool browserAllowSortByVehicleSpeed true
-key browserFilterData VehicleHarvester
-texts browserFilterName
-	(combine!0x00000001) "Combine"
-end

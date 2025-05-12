@@ -1,0 +1,29 @@
+key parent CreatureEditorTemplates!CreatureMouthTemplate
+texts blockName
+	(Editors_BP2!0x00000007) "Cantop (PLACEHOLDER)"
+end
+float itemUnlockFindPercentage 1
+int32 itemUnlockLevel 1
+int32 modelCapabilityBite 2
+int32 modelCapabilityCarnivorous 1
+int32 modelCapabilityHerbivorous 1
+int32 modelCapabilityMouth 2
+int32 modelCapabilityVocalize 1
+int32 modelComplexityScore 2
+bboxs modelDefaultChannelsBBox
+	(-0.181254, -0.30212, -0.191146) (0.181105, 0.110718, 0.217655)
+end
+float modelMaxScale 1.5
+key modelMeshLOD0 editor_rigblock~!ce_mouthTech_02.rw4
+float modelMinScale 0.4
+int32 modelPrice 75
+float modelRotationRingXAxisScale 2
+float modelScale 0.2
+float modelZCorpMinScale 0.5
+float mouthPriority 2
+key mouthtype AOA
+key skinpaintDiffuseTexture skinPaint_texture~!ce_mouthTech_02__diffuse.rw4
+bool skinpaintIgnoreParticles true
+float skinpaintMaxOcclusion 0
+key skinpaintSpecBumpTexture skinPaint_texture~!ce_mouthTech_02__specBump.rw4
+key skinpaintTintMaskTexture skinPaint_texture~!ce_mouthTech_02__tintMask.rw4
