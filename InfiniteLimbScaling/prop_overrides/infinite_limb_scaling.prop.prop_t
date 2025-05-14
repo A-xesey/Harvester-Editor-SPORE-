@@ -1,0 +1,6 @@
+string8s replacementList
+	"float 0xFE0926F6 modelMinBallConnectorScale"
+	"float 0x21D55D8C modelMaxBallConnectorScale"
+end
+float modelMaxBallConnectorScale 340282346638528860000000000000000000000
+float modelMinBallConnectorScale 0
