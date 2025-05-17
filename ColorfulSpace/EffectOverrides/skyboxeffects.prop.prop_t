@@ -6,8 +6,8 @@
 uint32s ReplaceEffects
 	0xF07CD744
 	0x4827B9D4
-	hash(g2c_comet)
 	hash(solar_system_skybox)
+	0x03D6FC1E
 end
 
 
@@ -17,6 +17,6 @@ end
 uint32s EffectsToReplaceWith
 	hash(F07CD744_new)
 	hash(4827B9D4_new)
-	hash(g2c_comet_new)
 	hash(solar_system_skybox_new)
+	hash(03D6FC1E_new)
 end
